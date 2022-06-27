@@ -11,9 +11,9 @@ Bash с ограниченным функционалом.
 8) Реализовать built-ins:
   1. echo with option -n
   2. cd with only a relative or absolute path ◦ pwd with no options
-◦ export with no options
-◦ unset with no options
-◦ env with no options or arguments
-◦ exit with no options
+  3. export with no options
+  4. unset with no options
+  5. env with no options or arguments
+  6. exit with no options
 ## Usage:
 make && ./minishell (должна быть установлена библиотека readline, путь к которой указать в Makefile на 72 строке)
