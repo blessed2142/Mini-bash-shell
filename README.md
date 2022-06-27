@@ -9,8 +9,8 @@ Bash с ограниченным функционалом.
 6) Пайпы (|). 
 7) Переменные окружения ($PATH, $SHLVL etc.).
 8) Реализовать built-ins:
-echo with option -n
-cd with only a relative or absolute path ◦ pwd with no options
+  1. echo with option -n
+  2. cd with only a relative or absolute path ◦ pwd with no options
 ◦ export with no options
 ◦ unset with no options
 ◦ env with no options or arguments
