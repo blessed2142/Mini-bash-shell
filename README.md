@@ -9,11 +9,11 @@ Bash с ограниченным функционалом.
 6) Пайпы (|). 
 7) Переменные окружения ($PATH, $SHLVL etc.).
 8) Реализовать built-ins:
-  ◦ echo with option -n
-  ◦ cd with only a relative or absolute path ◦ pwd with no options
-  ◦ export with no options
-  ◦ unset with no options
-  ◦ env with no options or arguments
-  ◦ exit with no options
+◦ echo with option -n
+◦ cd with only a relative or absolute path ◦ pwd with no options
+◦ export with no options
+◦ unset with no options
+◦ env with no options or arguments
+◦ exit with no options
 ## Usage:
 make && ./minishell (должна быть установлена библиотека readline, путь к которой указать в Makefile на 72 строке)
